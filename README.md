@@ -4,7 +4,7 @@ Arabanın fren balatası ya da debriyajı ne zaman değişmeli? Çoğumuz bunu y
 
 Parçanın ne zaman takıldığını, aracın nasıl kullanıldığını ve parçanın kalitesini giriyorsun. Uygulama da parçanın ne kadar yıprandığını tahmin edip renkli bir uyarıyla gösteriyor.
 
-🔗 **Canlı demo:** _yakında_
+🔗 **Canlı demo:** [balata-omru.netlify.app](https://balata-omru.netlify.app)
 
 ![Ana sayfa](screenshots/ana-sayfa.png)
 
